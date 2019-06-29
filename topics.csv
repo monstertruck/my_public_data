@@ -1,0 +1,18 @@
+TOPIC,NAME,DESCRIPTION,CONTEXT
+0,fertilizer,mineral combination intended for plant nutrition,technology
+1,crop yield,productivty measure for crop - typically in amount harvested per area planted,need
+2,soil characteristics,"properties of soil that contribute to plant growth: composition, stored nutrients, slope grade, etc.",raw material
+3,mineral deposits,deposits of natural material that are mined for human use,raw material
+4,mining,physical removal of buried material,technology
+5,land value,monetary value of a specific plot of land (not counting buildings),product
+6,seed variety,subdivision between crop type,product
+7,genetic research,study of the role of genes/heredity on traits in living organisms,technology
+8,livestock nutrition,food necessary for livestock growth,need
+9,human nutrition,food necessary for human growth,need
+10,economic development,increases in individual wealth and/or wellbeing,product
+11,industrial farming,farming marked by high density and scale,technology
+12,farming input overuse,excess material applied than appropriate,product
+13,crop type,classification of cultivated plant used for food,product
+14,algal bloom,growth of algae or cyanobacteria in water that discolors the surface,product
+15,greenhouse gas,"gases that absorb infrared radiation, leading to atmospheric heating",product
+16,temperature,temperature,product
